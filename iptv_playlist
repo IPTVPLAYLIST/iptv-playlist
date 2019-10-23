@@ -1292,3 +1292,55 @@ http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921
 
 
 
+
+
+Marathi
+------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/abc01903b7d54dafba8e3a58bccff842_1280X720.png",  News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",  ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://oklivetv.com/wp-content/uploads/media/9a7f137cdd45a8c529b546673b43a401.jpeg",9X Jhakaas  
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD  
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi  
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi  
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi HD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi SD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathisd
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",Zee 24 Taas
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
+http://pockettv.xyz/api/zee.m3u8?c=zyuva
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva  
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Yuva/Zee_Yuva_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",ABP Majha  
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",TV9 Maharashtra  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/05/fakte-marathi-logo-2.jpg",Fakt Marathi  
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
