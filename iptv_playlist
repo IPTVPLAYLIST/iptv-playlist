@@ -923,3 +923,90 @@ https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+TELUGU
+------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="https://paganresearch.io/images/YUPPTV.jpeg",  TBO
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",  ETV Telugu HD
+http://195.181.169.151:8080/ETVTelugu-telu/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",  Maa Movies
+http://195.181.169.151:8080/MaaMovies-telu/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",ABN Andhra HQ
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Telugu_Hits_HD.png",Jio Telugu Hits HQ
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Jio_Telugu_Hits_HD/Jio_Telugu_Hits_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD  
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Movies_HD/Gemini_Movies_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Telugu",Gemini Movies  
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Gemini_Movies/Gemini_Movies_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Telugu",Gemini Life
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Gemini_Life/Gemini_Life_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",ETV AP  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ETV_Andhra_pradesh/ETV_Andhra_pradesh_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",ETV Telugu  
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema  
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ETV_Cinema/ETV_Cinema_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ETV_Plus/ETV_Plus_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ETV_Abhiruchi/ETV_Abhiruchi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu  
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+http://pockettv.xyz/api/zee.m3u8?c=zeetelegusd
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu HD
+http://pockettv.xyz/api/zee.m3u8?c=zeeteleguhd
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu SD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemalusd
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Cinemalu/Zee_Cinemalu_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",Raj News 
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Raj_News_Telugu/Raj_News_Telugu_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music 
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Raj_Music_Telugu/Raj_Music_Telugu_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu 
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV9_Telugu_News/TV9_Telugu_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa  
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Vissa_TV/Vissa_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV1.png",TV 1 HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV1/TV1_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="Telugu",TV5 News
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/TV_5_News/TV_5_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Telugu",CVR Health
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/CVR_Health/CVR_Health_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",HM TV
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/HM_TV/HM_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/te/0/0f/10tv_telugu.jpg",10TV 
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/10_TV/10_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
