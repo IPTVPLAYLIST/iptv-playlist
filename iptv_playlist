@@ -1057,3 +1057,77 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Karnataka/TV9_Karnatak
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+Tamil
+------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil", Star Vijay HS HD
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sun_Life/Sun_Life_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png",Sun Music ATV M
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News  
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Polimer_News/Polimer_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Tamil_Hits_HD.png",Jio Tamil Hits FHD
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Jio_Tamil_Hits_HD/Jio_Tamil_Hits_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer TV JTV FHD
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Polimer_TV/Polimer_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD ATV M
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/KTV_HD/KTV_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/KTV_HD/KTV_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",Thanthi TV  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Thanthi_TV/Thanthi_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal TV  
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Makkal_TV/Makkal_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",  News18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Tamil-designstyle-smoothie-m.png",  Tamil Classics
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w1355462645_b1296000.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="https://2.bp.blogspot.com/-bgFB_h9T5nw/V1BGYvC6vPI/AAAAAAAAPQE/jw8ZOIq7kK0-CkLKKr-SQ0dYykpZqy8NwCLcB/s1600/athavan-tv-online.png",  Athavan TV HD
+http://81.24.198.44/A-HI/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="https://2.bp.blogspot.com/-bgFB_h9T5nw/V1BGYvC6vPI/AAAAAAAAPQE/jw8ZOIq7kK0-CkLKKr-SQ0dYykpZqy8NwCLcB/s1600/athavan-tv-online.png",  Athavan News
+http://81.24.198.44/AthavanTR/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/1533891145-5b6d5249dcf8a.png",  Athavan Music
+http://81.24.198.44/A-MI/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil",  Sirippoli H
+https://sony-yupp.akamaized.net/hls/live/2004700/Sirippoli/Sirippoli_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil",  Isaiaruvi H
+https://sony-yupp.akamaized.net/hls/live/2004707/IsaiaruvitvSony/IsaiaruvitvSony/isaiaruvitv_2000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil",  Malai Murasu H
+https://sony-yupp.akamaized.net/hls/live/2004711/MalaiMurasuSeithikalSony/MalaiMurasuSeithikalSony/murasu_2000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",  DD Podhigai
+https://mk9qa798qwyb-hls-live.wmncdn.net/824/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://theboss.in/wp-content/uploads/2016/06/logo-1.png",  Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://www.akaramtv.com/images/AKARAMMIX.png",  Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://www.akaramtv.com/images/AKARAMMIX.png",  Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://www.akaramtv.com/images/akaramkalada.png",  Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
