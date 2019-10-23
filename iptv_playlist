@@ -852,3 +852,24 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+ASSAMESE
+------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Assamese" tvg-logo="https://static.assam.news18.com/assam/uploads/2019/04/desktop-assam.png",$ News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Assamese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_North_East_Live.png",NorthEast Live
+http://vidcdn.vidgyor.com:80/northeastlive-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Assamese" tvg-logo="https://i.pinimg.com/originals/12/98/8d/12988d4b9d94036a4d24d232e2cb7d2e.png",Jonack TV
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Assamese" tvg-logo="http://www.magicalassam.com/wp-content/uploads/2014/09/dy-365-assam-watch-live1.jpg",DY365
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
