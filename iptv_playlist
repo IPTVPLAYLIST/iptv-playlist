@@ -328,7 +328,7 @@ Infotainment
 #EXTINF:-1 tvg-name="History18 Hindi FHD+" tvg-id="History TV18 HD" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History18 Hindi
 http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-name="Animal Planet Hin. JTV FHD+" tvg-id="Animal Planet" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png",Animal Planet Hindi
+#EXTINF:-1 tvg-name="Animal Planet Hin.  +" tvg-id="Animal Planet" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png",Animal Planet Hindi
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="Living Foodz HD" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png",Living Foodz HD
@@ -1073,7 +1073,7 @@ http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Polimer_News/Polime
 #EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Tamil_Hits_HD.png",Jio Tamil Hits FHD
 http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Jio_Tamil_Hits_HD/Jio_Tamil_Hits_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer TV JTV FHD
+#EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer TV  
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Polimer_TV/Polimer_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Tamil" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD ATV M
@@ -1362,7 +1362,7 @@ https://cdnlive.livecast.io/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Gujarati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",Colors Gujarati  
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Gujarati/Colors_Gujarati_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujarati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png",CNBC Bazaar JTV FHD
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujarati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png",CNBC Bazaar  
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Gujarati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak  
