@@ -704,9 +704,151 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kanak_TV/Kanak_TV_600.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Odia" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_World_Odisha.png",News World Odisha
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_World_Odisha/News_World_Odisha_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+PANJABI
+------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png", 9X Tashan
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Tashan/9X_Tashan_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",9X Tashan
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png",Zee Punjabi
+http://pockettv.xyz/api/zee.m3u8?c=punjabi
+
+#EXTINF:-1 tvg-id="Brit_Asia" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png",BritAsia 
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Brit_Asia/Brit_Asia_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png", PTC Chak De 
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/PTC_Chak_De/PTC_Chak_De_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png", PTC Punjabi 
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/PTC_Punjabi/PTC_Punjabi_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png",Pitaara 
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pitaara/Pitaara_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Pitaara/Pitaara_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A",ABP Sanjha
+https://abp-i.akamaihd.net/hls/live/765533-b/abpsanjha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A",India News Punjab
+https://streamidea.multitvsolution.in/live/IndiaNewsPunjab-a/p4.m3u8
+
+#EXTINF:-1 group-title="Punjabi",Aaho Music
+https://v.viralshit.in/live/aahomusic.m3u8
+
+#EXTINF:-1 group-title="Punjabi", P Tunes
+https://streamer.multitvsolution.in/PTunes-d/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi",P Plus
+https://streamer.multitvsolution.in/PtunesPlus-d/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi",News 18 Punjab/Har/Him
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A", TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A",SteelBird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A",Punjabi TadkaMusic
+https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A",Prime Asia TV
+http://jiocgehub.jio.ril.com:80/Prime_Asia_Tv/Prime_Asia_Tv_600.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A", News18 Pun/Har/Him
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="Punjabi", TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Punjabi Tadkaa
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+
+#EXTINF:-1 group-title="Punjabi", PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:-1 group-title="Punjabi", PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Gurbaani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Fateh TV Int
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1 group-title="Punjabi", Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1 group-title="Punjabi", E9 Punjabi
+http://cdn.samtv.ca/e9punjabi/index.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Desi Channel
+https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", 5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Punjabi", Punjabi Tv Canada
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
