@@ -1,10 +1,11 @@
 TEST 
 ------------------------------------------------------------------------------------------
 #EXTM3U
-#EXTINF:-1 group-title="TEST", TEST 3
+#EXTINF:-1 group-title="TEST", TEST 4
 https://edge4.bioscopelive.com/hls/jYTiWD_mNkS4w7rhZpNF7A/1571988558/dhoom.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-
+#EXTINF:-1 group-title="TEST", TEST 5
+https://edge4.bioscopelive.com/hls/jYTiWD_mNkS4w7rhZpNF7A/1571988558/dhoom.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
